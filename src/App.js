@@ -1,9 +1,10 @@
+import Index from "./routes/Index";
 
 
 function App() {
   return (
     <div className="App">
-      
+      <Index />
     </div>
   );
 }
